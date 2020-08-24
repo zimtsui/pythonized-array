@@ -1,0 +1,22 @@
+{
+    "name": "pythonized-array",
+    "version": "0.0.1",
+    "description": "",
+    "type": "module",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "tsc -b",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zimtsui/pythonized-array.git"
+    },
+    "author": "Zim",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zimtsui/pythonized-array/issues"
+    },
+    "homepage": "https://github.com/zimtsui/pythonized-array#readme"
+}
